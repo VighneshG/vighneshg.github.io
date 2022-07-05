@@ -409,7 +409,7 @@ body {
   font-family: Ubuntu;
   font-size: 20px;
   line-height: 1.42857;
-  color: #838383;
+  color: #363636;
   background-color: #fff;
 }
 button,
@@ -2617,7 +2617,7 @@ fieldset[disabled] .btn-default:hover {
 }
 .btn-primary {
   color: #1763e9;
-  background-color: transparent;
+  background-color: #e4edff;
   border-color: #1763e9;
 }
 .btn-primary.focus,
@@ -2669,8 +2669,8 @@ fieldset[disabled] .btn-primary:hover {
   background-color: #1763e9;
 }
 .btn-success {
-  color: #5cb85c;
-  background-color: transparent;
+  color: #1b4001;
+  background-color: #d1ffd1;
   border-color: #5cb85c;
 }
 .btn-success.focus,
@@ -5030,7 +5030,7 @@ h3 {
 }
 .h4,
 h4 {
-  color: #838383;
+  color: #666666;
   font-weight: 300;
 }
 img[data-action="zoom"] {
@@ -5192,7 +5192,7 @@ label {
   }
 }
 .carousel-caption {
-  color: #838383;
+  color: #303030;
   text-shadow: none;
   position: relative;
   background-color: #fff;
